@@ -10,7 +10,7 @@ html, body {
 .icons {
 	height: 60%;
 	display: flex;
-	flex-flow: row-wrap;
+	flex-flow: row wrap;
 	background: lightgray;
 }
 .cell {
